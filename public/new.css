@@ -1,0 +1,12 @@
+div {
+    background-color: cadetblue;
+    padding: 20px;
+    text-align: center;
+    width: 400px;
+}
+
+button {
+    background-color: seagreen;
+    border-radius: 4px;
+    padding: 4px;
+}
